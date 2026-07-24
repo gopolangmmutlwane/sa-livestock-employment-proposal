@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# OS junk
+Thumbs.db
+
+# Office temp files
+~$*.docx
+~$*.pptx
